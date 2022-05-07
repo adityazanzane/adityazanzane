@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adityazanzane
-- 👀 I’m interested in Coding, Andriod Development, researching and developing new skills.
+- 👀 I’m interested in Coding, Andriod Development, mining about AiML and developing new skills.
 - 🌱 I’m currently learning Computer Science in Artificial Intelligence and Machine Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... You can reach me through LinkedIn and GitHub.
+- 💞️ I’m currently studying in Vellore Institute of Technology Bhopal
+- 📫 How to reach me ... You can reach me through LinkedIn https://www.linkedin.com/in/aditya-zanzane-5a745222b/ or (Aditya Zanzane) and GitHub.
 
 <!---
 adityazanzane/adityazanzane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
