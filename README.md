@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi, I'm Aditya Zanzane - [adityazanzane]</h1>
-<h3 align="center">I'm a passionate Full Stack & Flutter Developer from India.</h3>
+<h3 align="center">I'm a passionate Android & Flutter Developer from India.</h3>
 
 ## I'm a Student and a Developer!!
 
@@ -57,7 +57,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=nileshsrivastava27">
 </a>
-<a href="https://github.com/adityazanzane?tab=followers"><img src="https://img.shields.io/github/followers/nileshsrivastava27?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/adityazanzane?tab=followers"><img src="https://img.shields.io/github/followers/adityazanzane?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
